@@ -126,7 +126,3 @@ The project implements a **GitHub Actions** pipeline to automate the build and d
 
 **Harshdeep Puri**
 
-
-1.  **Architecture Diagram**: Did you upload the `architecture-diagram.png` file to the repo?
-2.  **YouTube Link**: Replace `YOUR_YOUTUBE_LINK_HERE` with your actual video link.
-3.  **Deployment Files**: Ensure the folder `DeploymentFiles/` exists in your repo and contains your YAMLs.
