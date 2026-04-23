@@ -76,11 +76,10 @@ graph TD
 
 | Service | GitHub Repository | Docker Hub Image (ARM64) |
 | :--- | :--- | :--- |
-| **Store-Front** | [Link](https://www.google.com/search?q=https://github.com/ramymohamed10/26W_Final_Project_Assignment) | `harshdeep1230/store-front:v1` |
-| **Store-Admin** | [Link](https://www.google.com/search?q=https://github.com/ramymohamed10/26W_Final_Project_Assignment) | `harshdeep1230/store-admin:v1` |
-| **Product-Service** | [Link](https://www.google.com/search?q=https://github.com/ramymohamed10/26W_Final_Project_Assignment) | `harshdeep1230/product-service:v1` |
-| **Order-Service** | [Link](https://www.google.com/search?q=https://github.com/ramymohamed10/26W_Final_Project_Assignment) | `harshdeep1230/order-service:v1` |
-| **Makeline-Service**| [Link](https://www.google.com/search?q=https://github.com/ramymohamed10/26W_Final_Project_Assignment) | `harshdeep1230/makeline-service:v1` |
+| **Store-Front** | [Link](https://github.com/harshdeep1230/store-front-L8) | `harshdeep1230/store-front:v1` |
+| **Product-Service** | [Link](https://github.com/harshdeep1230/product-service-L8) | `harshdeep1230/product-service:v1` |
+| **Order-Service** | [Link](https://github.com/harshdeep1230/order-service-L8) | `harshdeep1230/order-service:v1` |
+| **Makeline-Service**| [Link](https://github.com/harshdeep1230/makeline-service-L8) | `harshdeep1230/makeline-service:v1` |
 
 -----
 
