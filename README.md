@@ -26,18 +26,15 @@ The application uses a decoupled architecture where services communicate via RES
 graph TD
     subgraph Internet
         User((Customer))
-        Admin((Employee))
     end
 
     subgraph "Azure Kubernetes Service (AKS)"
         subgraph "Public Load Balancers"
             LB1[LB: Port 80]
-            LB2[LB: Port 8080]
         end
 
         subgraph "Frontend Services"
             SF[Store-Front: Vue.js]
-            SA[Store-Admin: Employee Portal]
         end
 
         subgraph "Backend APIs"
@@ -57,11 +54,9 @@ graph TD
 
     %% Connections
     User --> LB1 --> SF
-    Admin --> LB2 --> SA
     
     SF --> PS
     SF --> OS
-    SA --> PS
     
     OS --> MQ
     MQ --> ML
